@@ -144,8 +144,22 @@
       <groupId>jakarta.xml.bind</groupId>
       <artifactId>jakarta.xml.bind-api</artifactId>
     </dependency>
+   
 
   </dependencies>
+
+  <distributionManagement>
+      <repository>
+          <id>nexus</id>
+          <name>Release Repo</name>
+          <url>http://35.225.82.249:8081/repository/first-release/</url>
+      </repository>
+      <snapshotRepository>
+          <id>nexus</id>
+          <name>Snapshot Repo</name>
+          <url>http://35.225.82.249:8081/repository/first-snapshot/</url>
+      </snapshotRepository>
+  </distributionManagement>
 
   <build>
     <plugins>
