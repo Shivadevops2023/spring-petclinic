@@ -35,6 +35,9 @@
     <nohttp-checkstyle.version>0.0.11</nohttp-checkstyle.version>
     <spring-format.version>0.0.40</spring-format.version>
 
+    <sonar.host.url>http://34.135.114.122:9000/</sonar.host.url>
+    <sonar.login>sqa_eec2f4925cde4d6c39f1cd642be30df5151df4ef</sonar.login>
+
   </properties>
 
   <dependencies>
