@@ -152,12 +152,12 @@
       <repository>
           <id>nexus</id>
           <name>Release Repo</name>
-          <url>http://35.225.82.249:8081/repository/first-release/</url>
+          <url>http://34.135.114.122:8081/repository/first-release/</url>
       </repository>
       <snapshotRepository>
           <id>nexus</id>
           <name>Snapshot Repo</name>
-          <url>http://35.225.82.249:8081/repository/first-snapshot/</url>
+          <url>http://34.135.114.122:8081/repository/first-snapshot/</url>
       </snapshotRepository>
   </distributionManagement>
 
