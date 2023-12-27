@@ -36,7 +36,7 @@
     <spring-format.version>0.0.40</spring-format.version>
 
     <sonar.host.url>http://34.16.177.33:9000</sonar.host.url>
-    <sonar.login>sqa_eec2f4925cde4d6c39f1cd642be30df5151df4ef</sonar.login>
+    <sonar.login>sqa_8286e21068b40466625aba7e3b59f38ecac79f4f</sonar.login>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>1.7</maven.compiler.source>
     <maven.compiler.target>1.7</maven.compiler.target>
